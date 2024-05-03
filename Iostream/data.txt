@@ -1,0 +1,6 @@
+name=Nguyen Quynh, age=19, max=9.5name=Nguyen Quynh, age=19, max=9.0name=Nguyen Quynh, age=19, max=10.0name=Nguyen Quynh, age=19, max=9.5
+name=Nguyen Quynh, age=19, max=9.0
+name=Nguyen Quynh, age=19, max=10.0
+name=Nguyen Quynh, age=19, max=9.5
+name=Nguyen Quynh, age=19, max=9.0
+name=Nguyen Quynh, age=19, max=10.0
