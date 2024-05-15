@@ -60,7 +60,7 @@ public class test2 extends JFrame implements ActionListener {
 
                 int rowsInserted = statement.executeUpdate();
                 if (rowsInserted > 0) {
-                    JOptionPane.showMessageDialog(this, "Đăng ký thành công!\nTên đăng nhập: " + username);
+                    JOptionPane.showMessageDialog(this, "Đăng ký thành công!WELCOM\nTên đăng nhập: " + username);
                 }
 
                 statement.close();
